@@ -45,15 +45,14 @@ To install and configure Oracle VM VirtualBox to enable virtualization for runni
 ## 🧑‍💻 Author
 ```
 - Name: RAJESH A
-- Course: *Virtualization / Cybersecurity Lab*
-- Institute: *Saveetha Engineering College*
+- Course: Virtualization / Cybersecurity Lab
+- Institute: Saveetha Engineering College
 ```
 
 ---
 
 ## 📅 Completion Date
-*DD-MM-YYYY*
-
+14/09/2024
 ---
 
 ## 🔗 References
